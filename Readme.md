@@ -12,6 +12,12 @@ Eye-candy for consoles and gives info about branches, among others.
 
 https://spaceship-prompt.sh/
 
-![image of spaceship]("/spaceship.png")
+![image of spaceship](/spaceship.png)
 
-#### Fuck
+#### TheFuck
+
+Helper that tries to execute that command you just failed to type.
+
+https://github.com/nvbn/thefuck
+
+![image of thefuck](thefuck.png)
