@@ -1,4 +1,4 @@
-# Config de desktop
+# Desktop Config
 
 ## One rice to rule them all
 
