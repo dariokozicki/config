@@ -104,17 +104,3 @@ Publisher: Prettier
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
 ---
-
-Name: vscode-icons
-
-Id: vscode-icons-team.vscode-icons
-
-Description: Icons for Visual Studio Code
-
-Version: 11.12.0
-
-Publisher: VSCode Icons Team
-
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
-
----
